@@ -1,0 +1,30 @@
+encapsulation
+inheritance
+polymorphism
+inerfaces
+
+ exception handling
+  1.exception handling basics
+  2.checked and unchecked exception
+
+string string
+stringbuffer
+
+
+required software
+ 1.jdk 8
+ 2.netbeans 8.2(drag and drop)
+ 3.oracle10g/oracle11g(telegram)
+ 
+
+LEaring
+ 
+ java collection api
+ jdbc for connecting to the database
+ gui graphic user interface(swing framework)
+ api integration mail sending food api password encryption
+ multithearding for splash screen of the project
+
+
+
+
